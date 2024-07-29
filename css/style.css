@@ -67,7 +67,7 @@ a {
     padding: 12px 16px;
     border-radius: 4px;
 
-    &::after{
+    &::after {
       display: none;
     }
 
@@ -82,7 +82,7 @@ a {
     gap: 12px;
   }
 
-  .header-menu a{
+  .header-menu a {
     padding: 8px 12px;
     font-size: 14px;
   }
